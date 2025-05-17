@@ -1,0 +1,4 @@
+*.pdf
+.env
+appmap.log
+__pycache__
