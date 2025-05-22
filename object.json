@@ -58,6 +58,22 @@
                 }
             }
         },
+        "60%-Cotton-40%-Polyester": {
+            "140": {
+                "men": {
+                    "min": 0.90,
+                    "max": 1.15
+                },
+                "women": {
+                    "min": 0.90,
+                    "max": 1.15
+                },
+                "kids": {
+                    "min": 0.90,
+                    "max": 1.15
+                }
+            }
+        },
         "Single-Jersey-(Semi)": {
             "140-160": {
                 "men": {
@@ -583,6 +599,278 @@
                     "max": 0.72
                 }
             }
+        },
+        "50%-Cotton-30%-Polyester-20%-Rayon": {
+            "155": {
+                "men": {
+                    "min": 1.35,
+                    "max": 1.80
+                },
+                "women": {
+                    "min": 1.35,
+                    "max": 1.80
+                },
+                "kids": {
+                    "min": 1.15,
+                    "max": 1.60
+                }
+            }
+        },
+        "90%-Cotton-10%-Polyester": {
+            "155": {
+                "men": {
+                    "min": 0.90,
+                    "max": 1.15
+                },
+                "women": {
+                    "min": 0.90,
+                    "max": 1.15
+                },
+                "kids": {
+                    "min": 0.70,
+                    "max": 0.95
+                }
+            }
+        },
+        "95%-Cotton-5%-Spandex": {
+            "155": {
+                "men": {
+                    "min": 0.90,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.90,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.70,
+                    "max": 0.85
+                }
+            }
+        },
+        "60%-Cotton-25%-Polyester-15%-Rayon": {
+            "155": {
+                "men": {
+                    "min": 1.05,
+                    "max": 1.25
+                },
+                "women": {
+                    "min": 1.05,
+                    "max": 1.25
+                },
+                "kids": {
+                    "min": 0.85,
+                    "max": 1.05
+                }
+            }
+        },
+        "80%-Cotton-20%-Polyester": {
+            "155": {
+                "men": {
+                    "min": 0.95,
+                    "max": 1.15
+                },
+                "women": {
+                    "min": 0.95,
+                    "max": 1.15
+                },
+                "kids": {
+                    "min": 0.75,
+                    "max": 0.95
+                }
+            }
+        },
+        "90%-Cotton-10%-Spandex": {
+            "155": {
+                "men": {
+                    "min": 0.90,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.90,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.70,
+                    "max": 0.85
+                }
+            }
+        },
+        "90%-Polyester-10%-Spandex": {
+            "155": {
+                "men": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.78,
+                    "max": 0.85
+                }
+            }
+        },
+        "95%-Polyester-5%-Spandex": {
+            "155": {
+                "men": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.78,
+                    "max": 0.85
+                }
+            }
+        },
+        "92%-MODAL-8%-SPANDEX": {
+            "155": {
+                "men": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.78,
+                    "max": 0.85
+                }
+            }
+        },
+        "92%-POLYESTER-8%-ELASTANE": {
+            "155": {
+                "men": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.78,
+                    "max": 0.85
+                }
+            }
+        },
+        "95%-COTTON-5%-SPANDEX": {
+            "155": {
+                "men": {
+                    "min": 0.90,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.90,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.70,
+                    "max": 0.85
+                }
+            }
+        },
+        "95%-MODAL-5%-SPANDEX": {
+            "155": {
+                "men": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.78,
+                    "max": 0.85
+                }
+            }
+        },
+        "95%-VISCOSE-5%-ELASTANE": {
+            "155": {
+                "men": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "women": {
+                    "min": 0.98,
+                    "max": 1.05
+                },
+                "kids": {
+                    "min": 0.78,
+                    "max": 0.85
+                }
+            }
+        },
+        "MESH-81%-NYLON-14%-SPANDEX-5%-POLYESTER": {
+            "160": {
+                "men": {
+                    "min": 1.35,
+                    "max": 1.80
+                },
+                "women": {
+                    "min": 1.35,
+                    "max": 1.80
+                },
+                "kids": {
+                    "min": 1.15,
+                    "max": 1.60
+                }
+            }
+        },
+        "Pima-cotton-(100%-Cotton)": {
+            "160": {
+                "men": {
+                    "min": 2.05,
+                    "max": 3.50
+                },
+                "women": {
+                    "min": 2.05,
+                    "max": 3.50
+                },
+                "kids": {
+                    "min": 1.85,
+                    "max": 3.30
+                }
+            }
+        },
+        "57%-COTTON-38%-MODAL-5%-SPANDEX": {
+            "155": {
+                "men": {
+                    "min": 0.95,
+                    "max": 1.25
+                },
+                "women": {
+                    "min": 0.95,
+                    "max": 1.25
+                },
+                "kids": {
+                    "min": 0.75,
+                    "max": 1.05
+                }
+            }
+        },
+        "58%-COTTON-37%-POLYESTER-5%-SPANDEX": {
+            "155": {
+                "men": {
+                    "min": 0.95,
+                    "max": 1.25
+                },
+                "women": {
+                    "min": 0.95,
+                    "max": 1.25
+                },
+                "kids": {
+                    "min": 0.75,
+                    "max": 1.05
+                }
+            }
         }
     },
     "sweatshirts": {
@@ -915,6 +1203,22 @@
                     "max": 0
                 }
             }
+        },
+        "97% Polyester 3% Spandex": {
+            "165": {
+                "men": {
+                    "min": 0,
+                    "max": 0
+                },
+                "women": {
+                    "min": 2.30,
+                    "max": 2.95
+                },
+                "kids": {
+                    "min": 0,
+                    "max": 0
+                }
+            }
         }
     },
     "ladies-pyjama": {
@@ -1003,6 +1307,104 @@
                 "kids": {
                     "min": 0,
                     "max": 0
+                }
+            }
+        },
+        "95%-Cotton-5%-Spandex": {
+            "165": {
+                "men": {
+                    "min": 0,
+                    "max": 0
+                },
+                "women": {
+                    "min": 0.85,
+                    "max": 1.50
+                },
+                "kids": {
+                    "min": 0,
+                    "max": 0
+                }
+            }
+        }
+    },
+    "mens-undershirt": {
+        "60%-Cotton-40%-Polyester": {
+            "140": {
+                "men": {
+                    "min": 1.10,
+                    "max": 1.25
+                },
+                "women": {
+                    "min": 0,
+                    "max": 0
+                },
+                "kids": {
+                    "min": 0.90,
+                    "max": 1.05
+                }
+            }
+        },
+        "90%-Cotton-10%-Spandex": {
+            "140": {
+                "men": {
+                    "min": 0.95,
+                    "max": 1.15
+                },
+                "women": {
+                    "min": 0,
+                    "max": 0
+                },
+                "kids": {
+                    "min": 0.75,
+                    "max": 0.95
+                }
+            }
+        },
+        "95%-Cotton-5%-Spandex": {
+            "140": {
+                "men": {
+                    "min": 0.95,
+                    "max": 1.15
+                },
+                "women": {
+                    "min": 0,
+                    "max": 0
+                },
+                "kids": {
+                    "min": 0.75,
+                    "max": 0.95
+                }
+            }
+        },
+        "100%-Cotton": {
+            "140": {
+                "men": {
+                    "min": 0.90,
+                    "max": 1.20
+                },
+                "women": {
+                    "min": 0,
+                    "max": 0
+                },
+                "kids": {
+                    "min": 0.70,
+                    "max": 1.00
+                }
+            }
+        },
+        "50%-Cotton-50%-Polyester": {
+            "140": {
+                "men": {
+                    "min": 1.15,
+                    "max": 1.30
+                },
+                "women": {
+                    "min": 0,
+                    "max": 0
+                },
+                "kids": {
+                    "min": 0.95,
+                    "max": 1.10
                 }
             }
         }
